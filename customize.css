@@ -1,0 +1,23 @@
+.body {
+  width: 1200px;
+  padding: 0;
+  margin: 0;
+}
+.customizing-section {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  box-sizing: border-box;
+  position: sticky;
+  list-style-type: none;
+  width: 42%;
+  height: 42%;
+  left: 85%;
+  bottom: 0px;
+  overflow: auto;
+}
+.customizing-section h2 {
+  font-size: 40px;
+}
+.order-decision {
+  font-size: 14px;
+}
